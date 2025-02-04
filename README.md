@@ -26,7 +26,7 @@ IMPORTANT: Replace the commit message with a clear and descriptive note about wh
 ---
 ### **Step 3. Install Packages Into Your Local Project Virtual Environment**
  - Ensure your .venv is active, update key packages, and install dependencies from your requirements.txt using the following commands.
-  - .\.venv\Scripts\activate
+  - .venv\Scripts\activate
   - py -m pip install --upgrade pip setuptools wheel
   - py -m pip install -r requirements.txt
 ---
