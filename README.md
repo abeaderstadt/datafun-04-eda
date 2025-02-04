@@ -39,7 +39,7 @@ IMPORTANT: Replace the commit message with a clear and descriptive note about wh
 ### **3. Install Dependencies As Needed:**
   - py -m pip install -r requirements.txt
 ### **4. Run Scripts as needed:**
-  - py myfile.py    # Run a script
+  - py myfile.py   
 ### **5. Run Jupyter Notebooks as needed:**
  - click the kernel selector in the top-right corner of the notebook editor and choose the interpreter associated with your .venv.
  - Click on a cell and press Shift+Enter to execute it and move to the next cell.
