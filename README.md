@@ -1,4 +1,9 @@
 # datafun-04-eda
+
+## About
+
+For this project, I explored the classic Iris dataset in a Jupyter notebook, diving into exploratory data analysis (EDA) to understand patterns and relationships in the data. I practiced cleaning, summarizing, and visualizing the dataset using Python, which helped me get comfortable with pandas, Seaborn, and Matplotlib. This project was a hands on way to build intuition about data, uncover trends, and tell a story with visualizations skills that are essential for any data analysis workflow.
+
 ## **How to Install and Run the Project**
 ---
 ### **Step 1. Create a New Repo in GitHub**
